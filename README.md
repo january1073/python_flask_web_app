@@ -1,4 +1,4 @@
-# simple_flask_web_app
+# python_flask_web_app
 Simple web app with Flask
 
 Required framework:
